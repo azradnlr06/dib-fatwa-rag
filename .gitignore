@@ -1,0 +1,16 @@
+__pycache__/
+*.pyc
+venv/
+.venv/
+node_modules/
+.next/
+.env
+.env.local
+.DS_Store
+*.log
+
+# Veri ve üretilen dosyalar repoda tutulmaz
+diyanet_fetvalari.json
+backend/chunked_output.json
+qdrant_data/
+*.xlsx
