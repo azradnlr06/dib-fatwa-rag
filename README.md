@@ -1,6 +1,6 @@
 # Fetva RAG Sistemi
 
-Fetva kaynaklarını indeksleyen ve kullanıcının sorusuna en uygun fetvaları kaynağıyla birlikte getiren, RAG (Retrieval-Augmented Generation) mimarisinin bilgi erişim katmanı. Diyanet İşleri Başkanlığı'ndaki stajım kapsamında iki kişilik bir ekiple geliştirildi.
+Fetva kaynaklarını indeksleyen ve kullanıcının sorusuna en uygun fetvaları kaynağıyla birlikte getiren, RAG (Retrieval-Augmented Generation) mimarisinin bilgi erişim katmanı. Diyanet İşleri Başkanlığı'ndaki stajım kapsamında geliştirdim.
 
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white)
